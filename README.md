@@ -1,1 +1,1 @@
-# Lerning-basics-of-Python
+# Learning-basics-of-Python
